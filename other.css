@@ -1,0 +1,66 @@
+@media (min-width: 990px){
+    .main-game-list{
+        width: calc(66% - 10px);
+    }
+}
+
+@media (max-width: 990px){
+    .main-game-list{
+        width: calc(66% - 50px);
+    }
+}
+
+@media (max-width: 768px){
+    .main-game-list{
+        width: 100%;
+    }
+    .sec-game-lists{
+        width: 100%;
+    }
+}
+
+.big-image{
+    height: 180px;
+    width: 135px;
+}
+
+.list-item-text button{
+    margin-left: 15px; 
+    border: grey;
+}
+
+#content1 {
+    overflow: hidden;
+    height: 2em;
+    line-height: 1.2em;
+}
+
+#content2 {
+    overflow: hidden;
+    height: 2em;
+    line-height: 1.2em;
+}
+
+#content3 {
+    overflow: hidden;
+    height: 2em;
+    line-height: 1.2em;
+}
+
+#content4 {
+    overflow: hidden;
+    height: 2em;
+    line-height: 1.2em;
+}
+
+#content5 {
+    overflow: hidden;
+    height: 2em;
+    line-height: 1.2em;
+}
+
+#content6 {
+    overflow: hidden;
+    height: 2em;
+    line-height: 1.2em;
+}
