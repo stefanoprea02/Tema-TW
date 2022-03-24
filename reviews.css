@@ -16,14 +16,15 @@ nav{
     background-color: #302f2f;
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
 }
 
 a:visited{
     text-decoration: none;
 }
 
-nav a{
+.nav-element{
     display: inline-block;
     color: white;
     margin: 15px 5px 15px 5px;
@@ -32,18 +33,28 @@ nav a{
     padding: 5px;
 }
 
+.game-icon{
+    color: white; 
+    margin-left: 20px; 
+    font-size: 1.2em; 
+    margin-right: 10px
+}
+
+.search-container{
+    float: right;
+    margin-top: 12px;
+    margin-right: 16px;
+}
+
 nav input{
     padding: 10px;
-    margin-top: 12px;
     font-size: 15px;
     border: none;
 }
 
 nav .search-container button{
-    float: right;
+    float: left;
     padding: 0.5em;
-    margin-top: 12px;
-    margin-right: 16px;
     background: #ddd;
     font-size: 17px;
     border: none;
@@ -62,12 +73,6 @@ nav .search-container button{
     padding: 30px 20px;
 }
 
-@media (max-width: 990px) {
-    .page-grid {
-        display: block;
-    }
-}
-
 .game-lists{
     display: flex;
     flex-wrap: wrap;
@@ -80,12 +85,24 @@ nav .search-container button{
 }
 
 @media (max-width: 990px){
+    .page-grid {
+        display: block;
+    }
     .game-list{
         width: calc(50% - 15px);
     }
 }
 
 @media (max-width: 768px){
+    nav{
+        flex-wrap: wrap;
+    }
+    .nav-element{
+        width: 100%;
+    }
+    .game-icon{
+        margin-left: 0px;
+    }
     .game-list{
         width: 100%;
     }
