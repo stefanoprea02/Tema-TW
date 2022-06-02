@@ -1,0 +1,98 @@
+{
+  "recently_released": [
+    {
+      "id": "1",
+      "name": "Grand Turismo 8",
+      "img": "https://gamebomb.ru/files/galleries/001/6/63/350540.jpg",
+      "date": "Mar 4, 2022"
+    },
+    {
+      "name": "ELEX 2",
+      "img": "https://www.giantbomb.com/a/uploads/original/33/338034/3297066-0838609518-libra.jpg",
+      "date": "Mar 1, 2022",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Shadow Warrior 3",
+      "img": "https://game-tips.ru/game_fps_test/games2/Shadow%20Warrior%203/Shadow%20Warrior%203_main_image_0.jpg?x76266",
+      "date": "Mar 1, 2022"
+    },
+    {
+      "id": 4,
+      "name": "Elden Ring",
+      "img": "https://www.tierragamer.com/wp-content/uploads/2019/06/Elden-Ring-759x1024.jpg",
+      "date": "Feb 25, 2022"
+    },
+    {
+      "id": 5,
+      "name": "Horizon Forbidden West",
+      "img": "https://images.hdqwalls.com/download/horizon-forbidden-west-kp-2160x3840.jpg",
+      "date": "Feb 18, 2022"
+    }
+  ],
+  "upcoming_releases": [
+    {
+      "name": "Tiny Tina's Wonderlands",
+      "img": "https://iwantgames.ru/wp-content/uploads/tiny-tinas-wonderlands-thumb-468x702.jpg",
+      "date": "Mar 25, 2023",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Kirby and the Forgotten Land",
+      "img": "https://www.nintendoworldreport.com/media/58422/4/3.jpg",
+      "date": "Mar 25, 2022"
+    },
+    {
+      "id": 3,
+      "name": "Ghostwire: Tokyo",
+      "img": "https://static.actugaming.net/media/2020/06/ghostwire-tokyo-cover.jpg",
+      "date": "Mar 25, 2022"
+    },
+    {
+      "id": 4,
+      "name": "In Nightmare",
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1jos.png",
+      "date": "Mar 29, 2022"
+    },
+    {
+      "name": "Abermore",
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hrh.png",
+      "date": "Mar 29, 2022",
+      "id": 5
+    }
+  ],
+  "most_anticipated": [
+    {
+      "id": 1,
+      "name": "Starfield",
+      "img": "https://global-img.gamergen.com/starfield-13-06-2021-key-art-cover_0000982422.jpg",
+      "date": "Nov 11, 2022"
+    },
+    {
+      "id": 2,
+      "name": "Hogwarts Legacy",
+      "img": "https://media.senscritique.com/media/000019598406/source_big/Hogwarts_Legacy.jpg",
+      "date": "Q4, 2022"
+    },
+    {
+      "id": 3,
+      "name": "Atomic Heart",
+      "img": "https://steamunlockedpc.com/wp-content/uploads/2021/05/Atomic-Heart-Torrent-Download-Full-PC-Game.png",
+      "date": "Q4, 2022"
+    },
+    {
+      "id": 4,
+      "name": "God of War Ragnarok",
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3swk.png",
+      "date": "2022"
+    },
+    {
+      "name": "Legend of Zelda: Breath of the Wild II",
+      "img": "https://www.nautiljon.com/images/hotlink/jeuxvideo/00/50/the_legend_of_zelda_breath_of_the_wild_2_asie_2305.jpg",
+      "date": "Mar 4, 2022",
+      "id": 5
+    }
+  ]
+}
